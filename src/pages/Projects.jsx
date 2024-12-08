@@ -8,7 +8,7 @@ const Projects = () => {
         { title: "Rick and Morty Dex", description: "Projeto desenvolvido durante o curso da DIO. Um catálogo de personagens do multiverso Rick and Morty, explorando diversas características dos personagens.", link: "https://yaravarges.github.io/rick-morty/", image: "https://raw.githubusercontent.com/YaraVarges/portfolio/refs/heads/main/assets/images/site-rickandmorty.png" },
         { title: "Amicrochês", description: "Site AmiCrochês, sobre o universo dos amigurumis. Explora sobre pelúcias feitas à mão, onde cada ponto se transforma em personagens adoráveis e coloridos.", link: "https://yaravarges.github.io/amicroches-site/", image: "https://raw.githubusercontent.com/YaraVarges/portfolio/refs/heads/main/assets/images/site-amicroches.png" },
         { title: "Utilitários.com", description: "Site que inclui calculadoras para diversas necessidades, gerador de senhas robusto para manter suas contas seguras, criador de QR codes para facilitar o compartilhamento de informações.", link: "https://yaravarges.github.io/utilitarios.com/", image: "https://raw.githubusercontent.com/YaraVarges/portfolio/refs/heads/main/assets/images/site-gerador.png" },
-        { title: "Portfolio HTML", description: "Portfolio similar em HTML, CSS e JavaScript.", link: "https://yaravarges.github.io/portfolio/", image: "https://raw.githubusercontent.com/YaraVarges/portfolio/refs/heads/main/assets/images/site-gerador.png" },
+        { title: "Portfolio HTML", description: "Portfolio similar em HTML, CSS e JavaScript.", link: "https://yaravarges.github.io/portfolio/", image: "https://raw.githubusercontent.com/YaraVarges/portfolio-reactjs/refs/heads/main/src/assets/img/portfolio.png" },
     ];
 
     return (
