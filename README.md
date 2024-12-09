@@ -3,7 +3,7 @@ Desenvolvido para me apresentar como desenvolvedora e mostrar meus conhecimentos
 
 ## Tecnologias Utilizadas
 Frontend
-React.js: Biblioteca JavaScript para construção de interfaces. </br>
-Tailwind CSS: Framework de CSS utilitário para estilização rápida e eficiente.</br>
-EmailJS: Serviço para envio de emails diretamente do frontend.</br>
-Responsividade: Design adaptado para dispositivos móveis, tablets e desktops.</br>
+- [React.js](https://reactjs.org): Biblioteca JavaScript para construção de interfaces.
+- [Tailwind CSS](https://tailwindcss.com): Framework de CSS utilitário para estilização rápida e eficiente.
+- [FormSubmit](https://formsubmit.co): Serviço para envio de emails diretamente do frontend.
+- **Responsividade**: Design adaptado para dispositivos móveis, tablets e desktops.
